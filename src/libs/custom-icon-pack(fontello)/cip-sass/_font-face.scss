@@ -1,0 +1,10 @@
+@font-face {
+  font-family: '#{$fontello-font-name}';
+  src: url('#{$fontello-font-path}/#{$fontello-font-name}.woff2') format('woff2'),
+       url('#{$fontello-font-path}/#{$fontello-font-name}.woff') format('woff'),
+       url('#{$fontello-font-path}/#{$fontello-font-name}.ttf') format('truetype');
+
+
+  font-weight: normal;
+  font-style: normal;
+}

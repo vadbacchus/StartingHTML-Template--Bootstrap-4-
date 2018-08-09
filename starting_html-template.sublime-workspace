@@ -1,0 +1,460 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bro",
+				"browserSync"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"j",
+				"justify-content"
+			],
+			[
+				"a",
+				"animate"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"h",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Bacchus/Desktop/Starting_HTML-Template/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 2432,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template"
+	],
+	"file_history":
+	[
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/gulpfile.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/src/libs/font-awesome-4.7.0/scss/font-awesome.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/src/index.html",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/Switch/app/sass/libs.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/Switch/app/libs/font-awesome.min.css",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/src/sass/_mixins/_font-face.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/gulpfile.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/app/sass/_fonts.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/sass/colours.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/sass/_colours.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/sass/main.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/sass/libs.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/app/sass/_vars.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/app/sass/_libs.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/app/sass/main.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/src/libs/bootstrap/scss/mixins/_grid-framework.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/package.json",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/app/libs/bootstrap/scss/_reboot.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/app/libs/bootstrap/scss/bootstrap-reboot.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/Starting_HTML-Template/package.json",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/gulpfile.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/fast coding/OptimizedHTML-4-master/package.json",
+		"/C/Users/Bacchus/Desktop/uzor.group/uzor.group/custom/uzor/css/adaptive.css",
+		"/C/Users/Bacchus/Desktop/uzor.group/uzor.group/custom/uzor/css/start_page.css",
+		"/C/Users/Bacchus/uzor.group/custom/uzor/css/adaptive.css",
+		"/C/Users/Bacchus/uzor.group/portfolio/index.html",
+		"/C/Users/Bacchus/uzor.group/cache/js/ed244c93ba4273b01996358246394359.js",
+		"/C/Users/Bacchus/uzor.group/o-kompanii/index.html",
+		"/C/Users/Bacchus/uzor.group/custom/uzor/css/buttons.css",
+		"/C/Users/Bacchus/uzor.group/custom/uzor/css/footer.css",
+		"/C/Users/Bacchus/uzor.group/index.html",
+		"/C/Users/Bacchus/uzor.group/custom/uzor/css/start_page.css",
+		"/D/test.html",
+		"/C/Users/Bacchus/Desktop/test.html",
+		"/C/Users/Bacchus/uzor.group/js/main.js",
+		"/C/Users/Bacchus/uzor.group/cache/css/e86f8fd56e66b1e3844c959fc99add42.css",
+		"/C/Users/Bacchus/uzor.group/cache/js/ae5e756a0c775d05a45b5de729b968a4.js",
+		"/C/Users/Bacchus/uzor.group/cache/js/26c838e0b54fcd0aa04ba21ef978da93.js",
+		"/C/Users/Bacchus/uzor.group/cache/js/4a8f0b52ea40d0f59936b0e3cf8eaed5.js",
+		"/C/Users/Bacchus/uzor.group/js/timepicker.js",
+		"/C/Users/Bacchus/uzor.group/js/jquery.maskedinput.js",
+		"/C/Users/Bacchus/uzor.group/js/jquery.scrollTo.min.js",
+		"/C/Users/Bacchus/uzor.group/js/jquery.touchSwipe.min.js",
+		"/C/Users/Bacchus/uzor.group/cache/css/e4ab401ab307965897bd0332b62ed3e2.css",
+		"/C/Users/Bacchus/uzor.group/zaschita-i-ochistka-sayta-ot-virusov",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/gulpfile.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/libs/node_modules/magnific-popup/website/third-party-libs/jquery.js",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/libs/node_modules/jquery/bower.json",
+		"/C/Users/Bacchus/Desktop/StartHTML-Template/.yarnrc",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/package-lock.json",
+		"/C/Users/Bacchus/Desktop/StartHTML-Template/src/libs/.yarn-integrity",
+		"/C/Users/Bacchus/Desktop/StartHTML-Template/package.json",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/Switch/gulpfile.js",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/sidebar.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/sidebar-posts.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/single.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/assets/post-5.html",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/assets/post-2.html",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/assets/post-1.html",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/template-parts/content-contacts.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/template-parts/content.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/template-parts/content-archive.php",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/OptimizedHTML-4-master/OptimizedHTML-4-master/app/libs/bootstrap/scss/_grid.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/OptimizedHTML-4-master/OptimizedHTML-4-master/app/libs/bootstrap/scss/bootstrap-grid.scss",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/OptimizedHTML-4-master/OptimizedHTML-4-master/app/ht.access",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/Switch/app/css/main.css",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/Switch/app/index.html",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/OptimizedHTML-4-master/OptimizedHTML-4-master/package.json",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/StartHTML-Template/src/index.html",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/StartHTML-Template/src/manifest.json",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/Landing v2.0 - edit/manifest.json",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/OptimizedHTML-4-master/OptimizedHTML-4-master/.bowerrc",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/OptimizedHTML-4-master/OptimizedHTML-4-master/app/sass/_vars.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/OptimizedHTML-4-master/OptimizedHTML-4-master/app/sass/_media.sass",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/OptimizedHTML-4-master/OptimizedHTML-4-master/app/sass/main.sass",
+		"/C/Users/Bacchus/AppData/Local/Temp/Rar$DI00.032/bootstrap-grid.css",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/Switch/app/libs/bootstrap.min.css",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/assets/contact.html",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/page-contacts.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/page-archive.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/template-parts/content-about.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/assets/archive.html",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/front-page.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/assets/css/template-style.css",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/assets/css/responsee.css",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/assets/about.html",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/style.css",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/page-about.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/sidebar-latest.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/assets/index.html",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/twentyseventeen/page.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/About Template.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/functions.php",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/log of used technologies and tricks for creating WP theme.txt",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/footer.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/header.php",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/assets/js/responsee.js",
+		"/C/Users/Bacchus/Desktop/1.html",
+		"/C/Users/Bacchus/AppData/Local/Temp/Rar$DI00.297/style.css",
+		"/D/OpenServer/domains/fashion.loc/wp-content/themes/fashion/inc/customizer.php",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/functions.php",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/src/css/main.css",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/page-home.php",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/template-parts/content-home.php",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/index.php",
+		"/C/Users/Bacchus/AppData/Local/Temp/Rar$DI00.797/index.php",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/switch/switch/template-parts/content-page-home.php",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/template-parts/content.php",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/Інструменти/switch/switch/index.php",
+		"/C/Users/Bacchus/AppData/Local/Temp/Rar$DI12.078/functions.php",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/inc/template-functions.php",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/front-page.php",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/header.php",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/footer.php",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/style.css",
+		"/C/Users/Bacchus/Desktop/styles1.css",
+		"/C/Users/Bacchus/Desktop/index.html",
+		"/C/Users/Bacchus/Desktop/styles.css",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/js/skip-link-focus-fix.js",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/js/navigation.js",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/switch/js/customizer.js",
+		"/D/OpenServer/domains/wp-test.loc/wp-config.php",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/twentysixteen/header.php",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/twentyseventeen/header.php",
+		"/D/OpenServer/domains/wp-test.loc/wp-content/themes/wp/style.css",
+		"/D/OpenServer/domains/wp-test.loc/.htaccess",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/index.html",
+		"/D/archive/_PROGRAMMING/WEB_DEVELOPMENT/draft/gulp-sass-train/app/css/colours.css"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 145.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Bacchus/Desktop/Starting_HTML-Template/gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2432,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2260,
+								2260
+							],
+							[
+								2364,
+								2364
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "javascript",
+							"buffer_scroll_name": "eafc20f3",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1386.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "starting_html-template.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 361.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

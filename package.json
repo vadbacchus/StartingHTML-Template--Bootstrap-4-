@@ -1,0 +1,29 @@
+{
+  "name": "starting_html-template",
+  "version": "1.0.0",
+  "description": "Basic template which includes starting html, css, js, sass, gulp files. Also it includes manifest.json and .htaccess",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Bacchus",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-rename": "^1.2.3",
+    "gulp-rsync": "0.0.8",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-wait": "0.0.2"
+  }
+}
